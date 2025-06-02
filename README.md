@@ -1,7 +1,8 @@
 CER IV Escalas
 Formulário para geração de escalas médicas do CER IV da APAE de Colinas
 
-Este projeto é uma aplicação web desenvolvida para facilitar a criação e gerenciamento de escalas médicas no Centro Especializado em Reabilitação (CER IV) da APAE de Colinas do Tocantins. Utilizando tecnologias modernas, o sistema permite que os usuários insiram dados de plantões e profissionais, gerando escalas organizadas de forma eficiente.
+Este projeto é uma aplicação web desenvolvida para facilitar a criação e gerenciamento de escalas médicas no Centro Especializado em Reabilitação (CER IV) da APAE de Colinas do Tocantins. 
+Utilizando tecnologias modernas, o sistema permite que os usuários insiram dados de plantões e profissionais, gerando escalas organizadas de forma eficiente.
 
 Tecnologias Utilizadas
 Next.js – Framework React para aplicações web
